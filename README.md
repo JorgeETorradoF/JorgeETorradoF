@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge Torrado</h1>
-<h3 align="center">A systems engineering student with knowledge in ROS1, Python, Java, Lua and C++.Always looking for new challenges</h3>
+<h3 align="center">A systems engineering student with knowledge in ROS1, Python, Java, Kotlin, Lua and C++.Always looking for new challenges</h3>
 
-- 🌱 I’m currently learning **Kotlin, Kubernetes**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JorgeETorradoF](https://github.com/JorgeETorradoF)
 
