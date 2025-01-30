@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Torrado</h1>
-<h3 align="center">A systems engineering student with knowledge in ROS1, Python, Java, Lua and C++.Always looking for new challenges</h3>
+<h3 align="center">A systems engineering student passionate about backend development with knowledge in ROS1, Python, Java, Lua, C++, Kotlin, Docker, K8s and Postgre. Always looking for new challenges</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgeetorradof" alt="jorgeetorradof" /></a> </p>
 
