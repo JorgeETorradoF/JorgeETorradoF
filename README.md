@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jorge Torrado</h1>
 <h3 align="center">A Systems Engineering student passionate about software development, with experience in Spring Boot and Angular as my main stack. Knowledge in TypeScript, ROS, Python, Java, Lua, C++, Docker, Kubernetes, SQL and NoSQL databases. Always looking for new challenges and opportunities to grow.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgeetorradof" alt="jorgeetorradof" /></a> </p>
 
 - 🌱 I’m currently learning **Cloud Computing**
 
